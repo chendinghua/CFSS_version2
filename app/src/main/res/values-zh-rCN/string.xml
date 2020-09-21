@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RFID门禁系统</string>
+    <string name="action_settings">设置</string>
+    
+    <string name="maintitle">系统测试</string>
+    
+    <string name="mainled">状态灯</string>    
+    <string name="mainbeep">蜂鸣器</string>    
+    <string name="mainbacklight">背光</string>    
+    <string name="mainID">唯一ID</string>
+    <string name="mainwdog">看门狗</string>
+    <string name="mainserial">串口</string>
+    <string name="maine2prom">E2PROM</string>
+    <string name="mainLauncher">启动桌面</string>
+    <string name="mainCalibrate">触摸校准</string>
+    <string name="mainNetwork">设置网络</string>
+    <string name="main2network">网络设置</string>
+    <string name="main2networkIP"     >IP地址     ：</string>
+    <string name="main2networkSubMask">子网掩码：</string>
+    <string name="main2networkGateWay">网关          ：</string>
+    <string name="main2networkDNS1"    >DNS1  ：</string>
+    <string name="main2networkDNS2"    >DNS2   ：</string>
+    <string name="mainApplyNet"    >应用</string>
+    <string name="maingetmac"    >得到Mac</string>
+    <string name="mainrandommac"    >生成Mac</string>
+    <string name="mainsetmac"    >设置Mac</string>
+    
+    <string name="mainad">AD采集</string>    
+    <string name="main2adtitle">AD采集</string>
+    <string name="mainReadAd1">ReadAD1</string>
+    <string name="mainReadAd2">ReadAD2</string>
+    <string name="mainReadAd3">ReadAD3</string>
+    <string name="mainReadAd4">ReadAD4</string>
+    
+    <string name="mainAutoBacklightStart">自动关闭背光使能</string>
+    <string name="mainAutoBacklightStop">自动关闭背光停止</string>
+    
+    <string name="maincan">Can</string> 
+
+    
+    <string name="main2backlighttitle">背光设置</string>
+    <string name="main2boardid">唯一ID</string>
+    <string name="main2e2promtitle">E2prom 设置</string>
+    <string name="main2e2promwrite">写E2prom</string>
+    <string name="main2e2promread">读E2prom</string>
+    
+    <string name="main2wdogtitle">看门狗设置</string>
+    <string name="main2wdogsettime">设置时间</string>
+    <string name="main2wdogstart">启动狗</string>
+	<string name="main2wdogstop">停止狗</string>
+	<string name="main2wdogfeed">喂狗</string>  
+	
+	<string name="main2serialtitle">串口测试</string>
+	<string name="main2serialrecetext">接收区</string>
+	<string name="main2serialsendtext">发送区</string>
+	<string name="main2serialsendbutton">发送</string>
+	<string name="main2serialnumber">端口号</string>
+	<string name="main2serialbaute">波特率</string>
+	<string name="main2serialparitybit">校验位</string>
+	<string name="main2serialdatabit">数据位</string>
+	<string name="main2serialstopbit">停止位</string>
+	<string name="main2serialopenbutton">打开</string>
+	<string name="main2serialclosebutton">关闭</string>
+	<string name="main2serialclearrecebutton">清空接收</string>
+	<string name="main2serialclearrecenumber">清空收计数</string>
+	<string name="main2serialclearsendnumber">清空发计数</string>
+	<string name="main2serialhex">Hex</string>
+	
+	<string name="main2iotitle">IO输入输出测试</string>
+	<string name="main2iooutputh">IO全部输出为高</string>
+	<string name="main2iooutputl">IO全部输出为低</string>
+	<string name="main2ioreadinput">读输入</string>
+	<string name="main2iopollmode">查询模式</string>
+	<string name="main2iointrmode">中断模式</string>
+    
+</resources>

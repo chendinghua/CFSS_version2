@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calibrate.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\calibrate.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\led.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\led.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backlight.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\backlight.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serialstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\serialstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eeprom.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\eeprom.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\canstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_filter_down.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\bg_filter_down.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\can2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\can2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\led.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\led.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returnup.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\returnup.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\io.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\io.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backlightstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\backlightstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homestytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\homestytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backlight2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\backlight2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wdt.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\wdt.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returndown.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\returndown.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beep2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\beep2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eeprom.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\eeprom.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iostytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\iostytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wdt2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\wdt2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serial2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\serial2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serial.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\serial.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calibrate2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\calibrate2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beep.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\beep.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adc.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\adc.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wdtstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\wdtstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poweroffstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\poweroffstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\can2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\can2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stytlereturn.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\stytlereturn.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\canstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serial.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\serial.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\led2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\led2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poweroff2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\poweroff2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wdt.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\wdt.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adc2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\adc2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calibratestytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\calibratestytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wdtstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\wdtstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iostytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\iostytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\led2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\led2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stytlereturn.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\stytlereturn.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serialstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\serialstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adc2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\adc2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eepromstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\eepromstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beep2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\beep2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\networkstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\networkstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_filter_down.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\bg_filter_down.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\networkstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\networkstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adcstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\adcstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\io.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\io.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\home2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poweroffstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\poweroffstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\home2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beep.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\beep.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homestytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\homestytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eepromstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\eepromstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poweroff.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\poweroff.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wdt2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\wdt2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serial2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\serial2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\network.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\network.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poweroff.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\poweroff.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eeprom2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\eeprom2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backlightstytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\backlightstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calibrate.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\calibrate.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\can.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\can.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\network2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\network2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\io2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\io2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adc.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\adc.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backlight.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\backlight.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adcstytle.xml",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\adcstytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\network2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\network2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backlight2.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\backlight2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\io2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\io2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\can.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\can.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\network.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\network.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returnup.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\returnup.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calibrate2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\calibrate2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eeprom2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\eeprom2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calibratestytle.xml",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\calibratestytle.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returndown.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\returndown.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poweroff2.png",
+        "source": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\poweroff2.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\Phase 2\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\android_project\\CFSS\\UR4 Dem Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\16486\\.android\\build-cache\\144e875c1625ecf04ce07bd2d4e0431ea1eeeb68\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    }
+]

@@ -1,0 +1,39 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+   <TextView
+             android:id="@+id/TextViewID"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"             
+             android:layout_centerHorizontal="true"
+             android:textSize="30sp"
+             android:textColor="#FF00FF00"      
+             android:text="@string/main2boardid" />
+ 	 <LinearLayout
+         android:id="@+id/linearLayoutID"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+       	 android:layout_centerInParent="true"   
+	     android:orientation="horizontal" >
+	     <EditText
+         android:id="@+id/editTextBoardID"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"   
+         android:editable="false" 
+         />
+         
+     </LinearLayout>
+	<Button
+        android:id="@+id/buttonreturn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/stytlereturn"
+        />
+</RelativeLayout>

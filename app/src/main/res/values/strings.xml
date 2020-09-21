@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_power">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+
+    </array>
+
+
+    <string name="downloadUpdateNewVersionUrl">http://download.rfid-barcode.com/updateDownLoad/version.xml</string>
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="soft_update_cancel">取消</string>
+
+
+    <string name="app_name">RFID门禁系统</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="maintitle">yctek test</string>
+    <string name="mainled">Led</string>
+    <string name="mainbeep">Beep</string>
+    <string name="mainbacklight">Backlight</string>
+    <string name="mainID">BoardID</string>
+    <string name="mainwdog">WatchDog</string>
+    <string name="mainserial">Serial</string>
+    <string name="main2boardid">BoardID</string>
+    <string name="maine2prom">E2PROM</string>
+    <string name="mainLauncher">StartLauncher</string>
+    <string name="mainCalibrate">Calibrate</string>
+    <string name="mainNetwork">SetNetwork</string>
+    <string name="main2network">Network Setting</string>
+    <string name="main2networkIP"     >IP     ：</string>
+    <string name="main2networkSubMask">SubMask：</string>
+    <string name="main2networkGateWay">GateWay：</string>
+    <string name="main2networkDNS1"    >DNS1   ：</string>
+    <string name="main2networkDNS2"    >DNS2   ：</string>
+    <string name="mainApplyNet"    >Apply</string>
+    <string name="maingetmac"    >GetMac</string>
+    <string name="mainrandommac"    >RandomMac</string>
+    <string name="mainsetmac"    >SetMac</string>
+
+    <string name="close">关闭</string>
+    <drawable name="clr_normal">#666666</drawable>
+    <drawable name="clr_pressed">#333333</drawable>
+
+    <string name="open_caption">操作记录(点击展开)</string>
+    <string name="close_caption">操作记录(点击隐藏)</string>
+
+    <string name="clear_log">清除操作记录</string>
+
+    <string name="real_round">每条命令的盘存次数:</string>
+
+    <string name="stop_inventory">结束存盘</string>
+    <string name="open">打开</string>
+    <string name="set">设置</string>
+    <string name="get">读取</string>
+    <string name="send">发送</string>
+
+
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="goon">继续</string>
+    <string name="switchwifi">切换</string>
+    <string name="alert_diag_title">提示</string>
+    <string name="are_you_sure_to_exit">确认要退出吗？</string>
+
+    <string name="item_1">高级设置</string>
+
+    <string name="language">English</string>
+
+
+    <string name="real_session">自定义Session参数</string>
+
+    <string name="real_set">高级选项</string>
+
+    <string name="start_inventory">开始存盘</string>
+
+    <string name="tags_count">"标签数量"</string>
+
+    <string name="tags_count_unit">" 张"</string>
+
+    <string name="tags_speed">"识别速度"</string>
+    <string name="tags_speed_unit">" 个/秒"</string>
+    <string name="tags_op_time">"命令执行时间"</string>
+    <string name="tags_op_time_unit">" 毫秒"</string>
+    <string name="tags_total">"累计返回数据"</string>
+    <string name="tags_total_unit">" 条"</string>
+    <string name="tags_time">"累积运行时间"</string>
+    <string name="tags_time_unit">" 毫秒"</string>
+    <string name="tags_times_unit">" 次"</string>
+    
+    <string name="mainad">ADC</string>    
+    <string name="main2adtitle">AD</string>
+    <string name="mainReadAd1">ReadAD1</string>
+    <string name="mainReadAd2">ReadAD2</string>
+    <string name="mainReadAd3">ReadAD3</string>
+    <string name="mainReadAd4">ReadAD4</string>
+    
+     <string name="mainAutoBacklightStart">StartAutoBacklight</string>
+     <string name="mainAutoBacklightStop">StopAutoBacklight</string>
+    
+    <string name="maincan">Can</string>  
+    
+    <string name="main2backlighttitle">Backlight Setting</string>
+    
+    <string name="main2e2promtitle">E2prom Setting</string>
+    <string name="main2e2promwrite">write e2prom</string>
+    <string name="main2e2promread">read e2prom</string>
+    
+    <string name="main2wdogtitle">Watch Dog Setting</string>
+    <string name="main2wdogsettime">Set Time</string>
+	<string name="main2wdogstart">StartWdog</string>
+	<string name="main2wdogstop">StopWdog</string>
+	<string name="main2wdogfeed">FeedWdog</string>
+	
+	<string name="main2serialtitle">serial test</string>
+	<string name="main2serialrecetext">receive</string>
+	<string name="main2serialsendtext">send</string>
+	<string name="main2serialsendbutton">send</string>
+	<string name="main2serialnumber">port</string>
+	<string name="main2serialbaute">baute</string>
+	<string name="main2serialparitybit">parity</string>
+	<string name="main2serialdatabit">data</string>
+	<string name="main2serialstopbit">stop</string>
+	<string name="main2serialopenbutton">open</string>
+	<string name="main2serialclosebutton">close</string>
+	<string name="main2serialclearrecebutton">clear rece</string>
+	<string name="main2serialclearrecenumber">ClearReceNum</string>
+	<string name="main2serialclearsendnumber">ClearSendNum</string>
+	<string name="main2serialhex">Hex</string>
+	
+	
+	
+	<string name="main2iotitle">IO Input Output Test</string>
+	<string name="main2iooutputh">IO Set High Level</string>
+	<string name="main2iooutputl">IO Set Low Level</string>
+	<string name="main2ioreadinput">Read Input IO</string>
+	<string name="main2iopollmode">Poll mode</string>
+	<string name="main2iointrmode">Intr mode</string>
+</resources>

@@ -1,0 +1,63 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+    <TextView
+             android:id="@+id/TextViewWdog"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"             
+             android:layout_centerHorizontal="true"
+             android:textSize="30sp"
+             android:textColor="#FF00FF00"      
+             android:text="@string/main2wdogtitle" />
+ 	 <LinearLayout
+         android:id="@+id/linearLayoutWdogSetTime"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+       	 android:layout_centerInParent="true"   
+	     android:orientation="horizontal" >
+	     <EditText
+         android:id="@+id/editTextWdogSetTime"
+         android:layout_width="360px"
+         android:layout_height="80px" 
+         android:text="10"
+         android:numeric="integer"
+         android:ems="10" />
+     </LinearLayout>
+
+     <LinearLayout
+         android:id="@+id/linearLayoutctrlwdog"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"         
+		 android:layout_below="@+id/linearLayoutWdogSetTime"  
+		 android:layout_alignLeft="@+id/linearLayoutWdogSetTime"     
+         android:orientation="horizontal" >
+         <Button
+         android:id="@+id/buttonStartWdog"
+         android:layout_width="120px"
+         android:layout_height="80px"        
+         android:text="@string/main2wdogstart" />
+         <Button
+         android:id="@+id/buttonStopWdog"
+         android:layout_width="120px"
+         android:layout_height="80px"        
+         android:text="@string/main2wdogstop" />
+         <Button
+         android:id="@+id/buttonFeedWdog"
+         android:layout_width="120px"
+         android:layout_height="80px"    
+         android:text="@string/main2wdogfeed" />
+     </LinearLayout>   
+	<Button
+        android:id="@+id/buttonreturn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/stytlereturn"
+        />
+</RelativeLayout>
